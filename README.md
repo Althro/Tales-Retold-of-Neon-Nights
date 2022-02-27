@@ -1,6 +1,6 @@
 # Tales-of-the-Neon-Nights
 
-![totn-banner](https://github.com/Althro/Tales-of-the-Neon-Nights/blob/main/.github/photomode_16012022_205349.png?raw=true)
+![totn-banner](https://raw.githubusercontent.com/Althro/Tales-of-the-Neon-Nights/main/.github/totn.webp)
 
 Wabbajack Modlist Installer by Althro
 
