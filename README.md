@@ -1,8 +1,12 @@
 # Tales-of-the-Neon-Nights
 
-> "You can't know Night City well, ever. It's always changin', always surprisin'. Part of its charm." -V
+![totn-banner](https://github.com/Althro/Tales-of-the-Neon-Nights/blob/main/.github/photomode_16012022_205349.png?raw=true)
 
 Wabbajack Modlist Installer by Althro
+
+**Modlist Download: [Coming soon](https://github.com/Althro/Tales-of-the-Neon-Nights/releases)**
+
+**Modlist Support: [TBC](https://discord.gg/)**
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -14,7 +18,14 @@ Wabbajack Modlist Installer by Althro
 
 ## Preamble
 
+> "You can't know Night City well, ever. It's always changin', always surprisin'. Part of its charm." -V
+
 Tales of the Neon Nights (TotNN) is a list that seeks to make small but meaningful tweaks to provide a more fluid experience in Night City and open up some new ways to play the game. If you can play Cyberpunk, you will be able to play this list.
+
+Space required: Approx 2.7GB
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## Installation
 
@@ -36,14 +47,14 @@ I highly recommend trying these [optimisation steps](https://exputer.com/guides/
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. **Do not place it in program files, on your desktop or in your downloads folder.** I recommend placing it on an SSD as it will work quicker on there.
 
-#### Downloading and Installing SilverCyber
+#### Downloading and Installing TotNN
 
-Downloading and installing SilverCyber shoould be relatively quick as it is not that large (less than 1GB in fact). To install, complete the following steps.
+Downloading and installing TotNN shoould be relatively quick as it is not that large (less than 1GB in fact). To install, complete the following steps.
 
 1. Download the latest installer from [releases](https://github.com/Althro/Tales-of-the-Neon-Nights/releases) tab. Move it to a location such as C:\Games.
 2. Open Wabbajack and click on install from disk.
-3. Select the file you just downloaded called `SilverCyber.wabbajack`.
-4. Set the installation folder to be somewhere like C:\Games\SilverCyber. **Do not install it to your desktop or downloads folder.** The downloads folder will autofill.
+3. Select the file you just downloaded called `Tales of the Neon Nights.wabbajack`.
+4. Set the installation folder to be somewhere like C:\Games\TotNN. **Do not install it to your desktop or downloads folder.** The downloads folder will autofill.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
