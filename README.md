@@ -14,7 +14,7 @@ Wabbajack Modlist Installer by Althro
 
 ## Preamble
 
-Tales of the Neon Nights (TotNN) is a list that seeks to make small but meaningful tweaks to provide a more fluid experience in Night City and open up some new ways to play the game.
+Tales of the Neon Nights (TotNN) is a list that seeks to make small but meaningful tweaks to provide a more fluid experience in Night City and open up some new ways to play the game. If you can play Cyberpunk, you will be able to play this list.
 
 ## Installation
 
@@ -27,6 +27,8 @@ Prior to installing TotNN, please complete the following steps.
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) 
 2. Ensure that Cyberpunk is installed to a location such as C:\Games or similar. **Failure to ensure this may result in certain scripted mods not working**
 3. Run the REDLauncher as Administrator once. This is to ensure that the game is able to run properly.
+
+I highly recommend trying these [optimisation steps](https://exputer.com/guides/best-cyberpunk-2077-pc-settings-for-high-fps/) to make sure you're playing at a framerate you find comfortable. For AMD cards, I recommend not using Ray-Tracing as it will destroy your FPS (I lost 50fps with it on).
 
 ### Wabbajack Installation
 
