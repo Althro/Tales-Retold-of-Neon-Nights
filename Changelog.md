@@ -6,6 +6,7 @@
 
 **Build at:** `soon`
 
+- Added [Restrict Crafting and Upgrading to Inside Apartments Only](https://www.nexusmods.com/cyberpunk2077/mods/3970)
 - Updated [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468/?tab=files&file_id=20410)
 - Updated [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107/?tab=files&file_id=20495)
 - Updated [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380/?tab=files&file_id=20494)
