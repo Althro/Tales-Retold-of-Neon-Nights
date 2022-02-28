@@ -1,4 +1,17 @@
 # Changelog
+
+## 0.6.1 - Hotfix for latest update
+
+**Potentially not save safe** - Owing to game update, unsure if save safe.
+
+**Build at:** `soon`
+
+- Updated [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468/?tab=files&file_id=20410)
+- Updated [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107/?tab=files&file_id=20495)
+- Updated [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380/?tab=files&file_id=20494)
+- Updated [Reduced Loot](https://www.nexusmods.com/cyberpunk2077/mods/2678/?tab=files&file_id=20322)
+- Updated [Street Vendors](https://www.nexusmods.com/cyberpunk2077/mods/2894/?tab=files&file_id=20727)
+
 ## 0.6 - Rename and Rebuild
 
 **Not save safe** - This is due to game patch 1.5 and all mods having to be updated.
