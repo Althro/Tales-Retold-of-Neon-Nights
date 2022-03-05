@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.7 - Updates and tweaaks
+
+**Note: Recopy game folder files due to CET update.**
+
+**Build at:** `05/03/2022 11:50`
+
+- Updated [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107/?tab=files&file_id=20495)
+- Updated [Restrict Crafting and Upgrading to Inside Apartments Only](https://www.nexusmods.com/cyberpunk2077/mods/3970)
+- Added [Fast Travel Cost](https://www.nexusmods.com/cyberpunk2077/mods/3980)
+- Added [Vehicle Ammo Refill](https://www.nexusmods.com/cyberpunk2077/mods/3999)
+
 ## 0.6.1 - Hotfix for latest update
 
 **Potentially not save safe** - Owing to game update, unsure if save safe.
