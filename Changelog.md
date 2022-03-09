@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.7.1 - Updates
+
+**Build at:** `09/03/2022 19:00`
+
+- Added [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034)
+- Updated [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016)
+- Updated [Dot No More](https://www.nexusmods.com/cyberpunk2077/mods/3102)
+- Updated [Enhanced Weather V2](https://www.nexusmods.com/cyberpunk2077/mods/3901)
+- Updated [StreetStyle - Immersive Fashion System](https://www.nexusmods.com/cyberpunk2077/mods/2975)
+
 ## 0.7 - Updates and tweaaks
 
 **Note: Recopy game folder files due to CET update.**
@@ -14,8 +24,6 @@
 ## 0.6.1 - Hotfix for latest update
 
 **Potentially not save safe** - Owing to game update, unsure if save safe.
-
-**Build at:** `soon`
 
 - Added [Restrict Crafting and Upgrading to Inside Apartments Only](https://www.nexusmods.com/cyberpunk2077/mods/3970)
 - Updated [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468/?tab=files&file_id=20410)
