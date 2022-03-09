@@ -1,10 +1,10 @@
-# Tales-of-the-Neon-Nights
+# Tales-Retold-of-Neon-Nights
 
 ![totn-banner](https://raw.githubusercontent.com/Althro/Tales-of-the-Neon-Nights/main/.github/TotNN.webp)
 
 Wabbajack Modlist Installer by Althro
 
-**Modlist Download: [Releases](https://github.com/Althro/Tales-of-the-Neon-Nights/releases)**
+**Modlist Download: [Releases](https://github.com/Althro/Tales-Retold-of-Neon-Nights/releases)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
@@ -20,7 +20,7 @@ Wabbajack Modlist Installer by Althro
 
 > "You can't know Night City well, ever. It's always changin', always surprisin'. Part of its charm." -V
 
-Tales of the Neon Nights (TotNN) is a list that slightly shifts Cyberpunk to have a more retro feel and experience. From visuals by [FUNKED](https://www.nexusmods.com/cyberpunk2077/mods/3914) to sound by [Maestros of Synth](https://www.nexusmods.com/cyberpunk2077/mods/3776), the world will feel different and respond differently with [Enhanced Netrunner AI](https://www.nexusmods.com/cyberpunk2077/mods/2468) and [Reduced Loot](https://www.nexusmods.com/cyberpunk2077/mods/2678).
+Tales Retold of Neon Nights (TRoNN) is a list that slightly shifts Cyberpunk to have a more retro feel and experience. From visuals by [FUNKED](https://www.nexusmods.com/cyberpunk2077/mods/3914) to sound by [Maestros of Synth](https://www.nexusmods.com/cyberpunk2077/mods/3776), the world will feel different and respond differently with [Enhanced Netrunner AI](https://www.nexusmods.com/cyberpunk2077/mods/2468) and [Reduced Loot](https://www.nexusmods.com/cyberpunk2077/mods/2678).
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -33,11 +33,11 @@ Space required: Approx 2.7GB
 
 ## Installation
 
-Installing TotNN is relatively easy and, if you have nexus premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
+Installing TRoNN is relatively easy and, if you have nexus premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
 ### Pre-Installation
 
-Prior to installing TotNN, please complete the following steps.
+Prior to installing TRoNN, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) 
 2. Ensure that Cyberpunk is installed to a location such as C:\Games or similar. **Failure to ensure this may result in certain scripted mods not working**
@@ -49,14 +49,14 @@ Prior to installing TotNN, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. **Do not place it in program files, on your desktop or in your downloads folder.** I recommend placing it on an SSD as it will work quicker on there.
 
-#### Downloading and Installing TotNN
+#### Downloading and Installing TRoNN
 
-Downloading and installing TotNN shoould be relatively quick as it is not that large (less than 1GB in fact). To install, complete the following steps.
+Downloading and installing TRoNN shoould be relatively quick as it is not that large (less than 1GB in fact). To install, complete the following steps.
 
-1. Download the latest installer from [releases](https://github.com/Althro/Tales-of-the-Neon-Nights/releases) tab. Move it to a location such as C:\Games.
+1. Download the latest installer from [releases](https://github.com/Althro/Tales-Retold-of-Neon-Nights/releases) tab. Move it to a location such as C:\Games.
 2. Open Wabbajack and click on install from disk.
 3. Select the file you just downloaded called `Tales of the Neon Nights.wabbajack`.
-4. Set the installation folder to be somewhere like C:\Games\TotNN. **Do not install it to your desktop or downloads folder.** The downloads folder will autofill.
+4. Set the installation folder to be somewhere like C:\Games\TRoNN. **Do not install it to your desktop or downloads folder.** The downloads folder will autofill.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
@@ -83,7 +83,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-In order for TotNN to work properly, you will need to copy some files into your game folder. Once the installation has finished, complete the following:
+In order for TRoNN to work properly, you will need to copy some files into your game folder. Once the installation has finished, complete the following:
 
 1. Press the open installation folder button.
 2. Open the folder called `Game Folder Files` and copy the `bin` folder.
@@ -107,11 +107,12 @@ Simply delete the folder and you have uninstalled it.
 
 - _YOU_ for reading this.
 - Annakins, Astro & TheSpaniard for testing.
+- Webmetz for the name "Tales Retold of Neon Nights".
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 - My amazing Patreons.
 
 ## Contact
 
-Whilst I am available primarily on my server and the [Wabbajack Discord](https://discord.gg/wabbajack), please check the [issues](https://github.com/Althro/Tales-of-the-Neon-Nights/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
+Whilst I am available primarily on my server and the [Wabbajack Discord](https://discord.gg/wabbajack), please check the [issues](https://github.com/Althro/Tales-Retold-of-Neon-Nights/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
 
-You are welcome to [contribute](https://github.com/Althro/Tales-of-the-Neon-Nights/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/Althro/Tales-of-the-Neon-Nights/blob/main/Changelog.md) before you do.
+You are welcome to [contribute](https://github.com/Althro/Tales-Retold-of-Neon-Nights/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/Althro/Tales-Retold-of-Neon-Nights/blob/main/Changelog.md) before you do.
