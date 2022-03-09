@@ -4,9 +4,9 @@
 
 Wabbajack Modlist Installer by Althro
 
-**Modlist Download: [Coming soon](https://github.com/Althro/Tales-of-the-Neon-Nights/releases)**
+**Modlist Download: [Releases](https://github.com/Althro/Tales-of-the-Neon-Nights/releases)**
 
-**Modlist Support: [TBC](https://discord.gg/)**
+**Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
